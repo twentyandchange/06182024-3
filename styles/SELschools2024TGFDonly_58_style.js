@@ -24,7 +24,7 @@ var style_SELschools2024TGFDonly_58 = function(feature, resolution){
         image: new ol.style.Icon({
                   imgSize: [372, 254.66667],
                   scale: 0.12096774193548387,
-                  anchor: [22, 22],
+                  anchor: [28, 28],
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
