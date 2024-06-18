@@ -10,7 +10,7 @@ var style_ChautauquaCounty_Public_School_District_Boundaries_20 = function(featu
     var labelText = "";
     size = 0;
     var labelFont = "13.0px \'Open Sans\', sans-serif";
-    var font=bf
+      font-weight: 400
     var labelFill = "#323232";
     var bufferColor = "";
     var bufferWidth = 0;
