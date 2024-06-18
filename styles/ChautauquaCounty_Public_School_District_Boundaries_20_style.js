@@ -14,7 +14,7 @@ var style_ChautauquaCounty_Public_School_District_Boundaries_20 = function(featu
     var bufferColor = "";
     var bufferWidth = 0;
     var textAlign = "left";
-    var offsetX = 3;
+    var offsetX = 0;
     var offsetY = 0;
     var placement = 'point';
     if (feature.get("SCHOOLDIST") !== null && resolution > 50 && resolution < 140) {
