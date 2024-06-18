@@ -15,7 +15,7 @@ var style_SELschools2024TGFDonly_58 = function(feature, resolution){
     var bufferWidth = 0;
     var textAlign = "left";
     var offsetX = 0;
-    var offsetY = 0;
+    var offsetY = -15;
     var placement = 'point';
     if ("" !== null) {
         labelText = String("");
