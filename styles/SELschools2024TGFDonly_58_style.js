@@ -14,8 +14,8 @@ var style_SELschools2024TGFDonly_58 = function(feature, resolution){
     var bufferColor = "";
     var bufferWidth = 0;
     var textAlign = "left";
-    var offsetX = 25;
-    var offsetY = -25;
+    var offsetX = 0;
+    var offsetY = 0;
     var placement = 'point';
     if ("" !== null) {
         labelText = String("");
@@ -24,7 +24,7 @@ var style_SELschools2024TGFDonly_58 = function(feature, resolution){
         image: new ol.style.Icon({
                   imgSize: [372, 254.66667],
                   scale: 0.12096774193548387,
-                  anchor: [28, 28],
+                  anchor: [35, 35],
                   anchorXUnits: "pixels",
                   anchorYUnits: "pixels",
                   rotation: 0.0,
