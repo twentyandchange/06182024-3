@@ -14,8 +14,8 @@ var style_SELschools2024PAXonly_59 = function(feature, resolution){
     var bufferColor = "";
     var bufferWidth = 0;
     var textAlign = "left";
-    var offsetX = 8;
-    var offsetY = 3;
+    var offsetX = 0;
+    var offsetY = 0;
     var placement = 'point';
     if ("" !== null) {
         labelText = String("");
